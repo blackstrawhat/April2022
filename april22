@@ -9,7 +9,7 @@ https://kpuae@bd911d026808.eu-central-1.playback.live-video.net/api/video/v1/eu-
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 group-title="TV NASIONAL",RCTI
-https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+
 #EXTINF:-1 group-title="TV NASIONAL",TRANS7
 http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TRANS7
@@ -91,7 +91,7 @@ http://rr2.dens.tv/s/s105/index2.m3u8
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",INEWS
-https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/inews.png" group-title="BERITA",iNewsTV
