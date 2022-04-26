@@ -9,9 +9,9 @@ https://kpuae@bd911d026808.eu-central-1.playback.live-video.net/api/video/v1/eu-
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
-https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index.m3u8
+
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
-https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index_15.m3u8
+
 #EXTINF:-1 group-title="TV NASIONAL",TRANS7
 http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TRANS7
