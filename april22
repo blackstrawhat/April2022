@@ -337,11 +337,11 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist
 #EXTINF:-1 group-title="SPORTS LOKAL", USEESPORT 2
 
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1650996952~acl=/hls-p/ingest_6685_*/*~hmac=6b779f21f19be034f0de907019209c9309324205d6e0a42026d3a069a57bc56b/hls-p/ingest_6685_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1651007678~acl=/hls-p/ingest_6685_*/*~hmac=3681c817eb09b2a4b0da30839e07d3b6f3b00f32a54baa7290e8e6d2b36c8a7d/hls-p/ingest_6685_720p/index.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1650996967~acl=/hls-p/ingest_6686_*/*~hmac=40c9ab52f874d4bc0a0600d0153d7a17fd6b53e47623e017d3ce900c711cbc8b/hls-p/ingest_6686_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1651007691~acl=/hls-p/ingest_6686_*/*~hmac=8efe0f1d2045e689f7b4a69f6baaeab74dc2377758473bf15f45a9fcd02528ff/hls-p/ingest_6686_480p/index.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1650996982~acl=/hls-p/ingest_6786_*/*~hmac=00e80e0aae17b9bd391d14890339465a0130c7d679cc032d2fc71e639ad96932/hls-p/ingest_6786_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1651007703~acl=/hls-p/ingest_6786_*/*~hmac=56c6f283e56a2c8d2c0915ab1a20c66db93f8d8936a030b3d16d0f79e363157b/hls-p/ingest_6786_480p/index.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
