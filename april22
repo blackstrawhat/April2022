@@ -332,10 +332,10 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
 
 //TV SPORT LOKAL
-#EXTINF:-1 group-title="SPORTS LOKAL", USEESPORT [LIGA1]
-
+#EXTINF:-1 group-title="SPORTS LOKAL", USEESPORT
+https://winhometv.xyz/USEE/mpd.m3u8?channel=useesport
 #EXTINF:-1 group-title="SPORTS LOKAL", USEESPORT 2
-
+https://winhometv.xyz/USEE/mpd.m3u8?channel=useesports2
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 1
 https://etslive-2-vidio-com.akamaized.net/exp=1651007678~acl=/hls-p/ingest_6685_*/*~hmac=3681c817eb09b2a4b0da30839e07d3b6f3b00f32a54baa7290e8e6d2b36c8a7d/hls-p/ingest_6685_720p/index.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 2
@@ -415,6 +415,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="SPORT",SKY SPORT NEWS
 http://45.148.26.176/hls/M1.m3u8
+#EXTINF:-1 group-title="SPORT",RTM Sport
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 group-title="SPORT",FOX Sport Australia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master480x270_v3.m3u8
 #EXTINF:-1 group-title="ASTRO SPORT",EGG NETWORK
