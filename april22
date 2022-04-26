@@ -476,6 +476,15 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="AR SPORT",Sarjah Sport
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+///K+
+#EXTINF:-1 tvg-id="ksport1hd" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/10/28/4q516e9r_k-sport1.png" group-title="K+ VIEON",K+SPORT1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livetvbydtpro.duckdns.org:8123/decryption.php?keyid=009c20b9c1623450b03d6f578e7e9130&key=573de0eab4776395b84548d637be5982
+https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/22ee77c4b0a8f3b0977d58f14b56656f/1650979071334/wz/livetv_origin_drm/kplus_sport_1_22_08_2021_android.smil/manifest.mpd
+#EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/d0ed7vu0_sport2.png" group-title="K+ VIEON",K+SPORT2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://livetvbydtpro.duckdns.org:8123/decryption.php?keyid=3c642e860abe3dfa8ac89700f7706fa8&key=0b59ba858c1b7cf2244c576da2762c82
+https://sgn-vnpt-002-livecdn-vthn2-vnd.vieon.vn/3d5d42cfdcdba5fd18385c99ee2fe5a5/1650979131670/wz/livetv_origin_drm/kplus_phongcach_22_08_2021_android.smil/manifest.mpd
 //ASTRO SPORTS
 #EXTINF:-1 group-title="ASTRO SPORT",EGG NETWORK
 http://45.126.83.51/uq2663/h/h22/01.m3u8
