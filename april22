@@ -345,7 +345,9 @@ https://etslive-2-vidio-com.akamaized.net/exp=1651094975~acl=/hls-p/ingest_6686_
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 2
 http://tvn.x10.bz/TvN_ID/master-7.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 3
-
+https://etslive-2-vidio-com.akamaized.net/exp=1651094984~acl=/hls-p/ingest_6786_*/*~hmac=cc53d535eceb1a9ff8cfade2cff169d146a76867ad474eaf450457dc9532b858/hls-p/ingest_6786_480p/index.m3u8
+#EXTINF:-1 group-title="SPORTS LOKAL", CHAMPIONS TV 3
+http://tvn.x10.bz/TvN_ID/master-8.m3u8
 #EXTINF:-1 group-title="SPORTS LOKAL",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
