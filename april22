@@ -11,9 +11,9 @@ https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 
 #EXTINF:-1 group-title="TV NASIONAL",TRANS7
-http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 #EXTINF:-1 group-title="TV NASIONAL",TRANS7
-http://rr.dens.tv/h/h11/index.m3u8
+
 #EXTINF:-1 group-title="TV NASIONAL",TRANS7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -29,23 +29,20 @@ http://tvn.x10.bz/TvN_ID/master-12.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-//http://rr2.dens.tv/s/s07/index.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",ANTV
-//http://210.210.155.35/qwr9ew/s/s07/01.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
 #EXTINF:-1 group-title="TV NASIONAL",SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1651218949~acl=/hls-p/ingest_204_*/*~hmac=5eef4b41c9426f97c97887796f6391256ab0bbced0ffd766a9845f0936e0a35a/hls-p/ingest_204_480p/index.m3u8
-//http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",SCTV
 http://tvn.x10.bz/TvN_ID/master-24.m3u8
-//http://rr2.dens.tv/s/s03/01.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",SCTV
-#EXTINF:-1 group-title="TV NASIONAL",INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1651218744~acl=/hls-p/ingest_205_*/*~hmac=aad364dc1a12b49e5a9d3109be24187072ecb94a69ad5955d806ee9f10ea1bce/hls-p/ingest_205_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_sctv_big1.png?v=2.0.0.15" group-title="TV NASIONAL",SCTV _USEETV 
+https://cdn12jtedge.useetv.com/dass/133/sctv/manifest_wuseetv.mpd?encp=vxhtXakjM6KXwVORVqe8EA&uid=&expp=1651222235
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indosiar_big1.png?v=2.0.0.15" group-title="TV NASIONAL",Indosiar _USEETV 
+https://cdn12jtedge.useetv.com/dass/133/indosiar/manifest_wuseetv.mpd?encp=Nda0w-RLnfN0LQzqe1uf1w&uid=&expp=1651222233
 #EXTINF:-1 group-title="TV NASIONAL",INDOSIAR
 http://tvn.x10.bz/TvN_ID/master.m3u8
-//http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",INDOSIAR
-//http://rr2.dens.tv/s/s04/index.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
@@ -88,9 +85,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 //BERITA
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/0zHJS7l.png",group-title="BERITA",TV One
 http://tvn.x10.bz/TvN_ID/master-13.m3u8
-http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/0zHJS7l.png",group-title="BERITA",TV One
-//http://rr2.dens.tv/s/s105/index2.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-id="tvone" tvg-logo="https://i.postimg.cc/3x6vDjZT/tv-one.png" group-title="BERITA",TV One
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -106,16 +102,15 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 group-title="BERITA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 group-title="BERITA",KompasTV
-http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559446503011668def857b1c03bafabba51
 #EXTINF:-1 group-title="BERITA",KompasTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8?token=bukuantv
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
 http://tvn.x10.bz/TvN_ID/master-23.m3u8
-//http://rr.dens.tv/h/h12/index.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://3.bp.blogspot.com/-v_1lei3E3Fg/W-7DUIvKeAI/AAAAAAAAFAA/dC0JphZUqCY_jqRIyo6N5J-eiUK_5HYEwCLcBGAs/s1600/MetroTV.png",Metro TV
 //http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1 group-title="BERITA",METROTV
-//http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33446503011668def857b1c03bafabba51
 #EXTINF:-1 group-title="BERITA",METRO GLOBE NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 group-title="BERITA",BERITA SATU
