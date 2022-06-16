@@ -1,7 +1,7 @@
 #EXTM3U
 //LIVE
 //TV NASIONAL Update APRIL 2022
-#EXTINF:-1 group-title="TV NASIONAL", MEI
+#EXTINF:-1 group-title="TV NASIONAL", JUNI 2022
 https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
